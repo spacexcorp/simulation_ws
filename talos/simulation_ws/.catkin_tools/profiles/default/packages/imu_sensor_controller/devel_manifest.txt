@@ -1,0 +1,5 @@
+ros_controllers/imu_sensor_controller
+/home/user/simulation_ws/devel/.private/imu_sensor_controller/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake /home/user/simulation_ws/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig.cmake
+/home/user/simulation_ws/devel/.private/imu_sensor_controller/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake /home/user/simulation_ws/devel/share/imu_sensor_controller/cmake/imu_sensor_controllerConfig-version.cmake
+/home/user/simulation_ws/devel/.private/imu_sensor_controller/lib/libimu_sensor_controller.so /home/user/simulation_ws/devel/lib/libimu_sensor_controller.so
+/home/user/simulation_ws/devel/.private/imu_sensor_controller/lib/pkgconfig/imu_sensor_controller.pc /home/user/simulation_ws/devel/lib/pkgconfig/imu_sensor_controller.pc

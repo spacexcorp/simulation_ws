@@ -1,0 +1,4 @@
+pal_hardware_interfaces
+/home/user/simulation_ws/devel/.private/pal_hardware_interfaces/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig.cmake /home/user/simulation_ws/devel/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig.cmake
+/home/user/simulation_ws/devel/.private/pal_hardware_interfaces/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig-version.cmake /home/user/simulation_ws/devel/share/pal_hardware_interfaces/cmake/pal_hardware_interfacesConfig-version.cmake
+/home/user/simulation_ws/devel/.private/pal_hardware_interfaces/lib/pkgconfig/pal_hardware_interfaces.pc /home/user/simulation_ws/devel/lib/pkgconfig/pal_hardware_interfaces.pc

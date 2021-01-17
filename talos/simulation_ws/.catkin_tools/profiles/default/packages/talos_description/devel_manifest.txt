@@ -1,0 +1,4 @@
+talos_description
+/home/user/simulation_ws/devel/.private/talos_description/share/talos_description/cmake/talos_descriptionConfig.cmake /home/user/simulation_ws/devel/share/talos_description/cmake/talos_descriptionConfig.cmake
+/home/user/simulation_ws/devel/.private/talos_description/share/talos_description/cmake/talos_descriptionConfig-version.cmake /home/user/simulation_ws/devel/share/talos_description/cmake/talos_descriptionConfig-version.cmake
+/home/user/simulation_ws/devel/.private/talos_description/lib/pkgconfig/talos_description.pc /home/user/simulation_ws/devel/lib/pkgconfig/talos_description.pc

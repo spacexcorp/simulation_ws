@@ -1,0 +1,4 @@
+talos_robot/talos_bringup
+/home/user/simulation_ws/devel/.private/talos_bringup/share/talos_bringup/cmake/talos_bringupConfig.cmake /home/user/simulation_ws/devel/share/talos_bringup/cmake/talos_bringupConfig.cmake
+/home/user/simulation_ws/devel/.private/talos_bringup/share/talos_bringup/cmake/talos_bringupConfig-version.cmake /home/user/simulation_ws/devel/share/talos_bringup/cmake/talos_bringupConfig-version.cmake
+/home/user/simulation_ws/devel/.private/talos_bringup/lib/pkgconfig/talos_bringup.pc /home/user/simulation_ws/devel/lib/pkgconfig/talos_bringup.pc

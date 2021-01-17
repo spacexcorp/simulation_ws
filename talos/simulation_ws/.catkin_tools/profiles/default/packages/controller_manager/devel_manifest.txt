@@ -1,0 +1,6 @@
+ros_control/controller_manager
+/home/user/simulation_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake /home/user/simulation_ws/devel/share/controller_manager/cmake/controller_managerConfig.cmake
+/home/user/simulation_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake /home/user/simulation_ws/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake
+/home/user/simulation_ws/devel/.private/controller_manager/lib/libcontroller_manager.so /home/user/simulation_ws/devel/lib/libcontroller_manager.so
+/home/user/simulation_ws/devel/.private/controller_manager/lib/pkgconfig/controller_manager.pc /home/user/simulation_ws/devel/lib/pkgconfig/controller_manager.pc
+/home/user/simulation_ws/devel/.private/controller_manager/lib/python2.7/dist-packages/controller_manager/__init__.py /home/user/simulation_ws/devel/lib/python2.7/dist-packages/controller_manager/__init__.py

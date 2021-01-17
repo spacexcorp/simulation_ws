@@ -1,0 +1,4 @@
+talos_robot/talos_controller_configuration
+/home/user/simulation_ws/devel/.private/talos_controller_configuration/share/talos_controller_configuration/cmake/talos_controller_configurationConfig.cmake /home/user/simulation_ws/devel/share/talos_controller_configuration/cmake/talos_controller_configurationConfig.cmake
+/home/user/simulation_ws/devel/.private/talos_controller_configuration/share/talos_controller_configuration/cmake/talos_controller_configurationConfig-version.cmake /home/user/simulation_ws/devel/share/talos_controller_configuration/cmake/talos_controller_configurationConfig-version.cmake
+/home/user/simulation_ws/devel/.private/talos_controller_configuration/lib/pkgconfig/talos_controller_configuration.pc /home/user/simulation_ws/devel/lib/pkgconfig/talos_controller_configuration.pc

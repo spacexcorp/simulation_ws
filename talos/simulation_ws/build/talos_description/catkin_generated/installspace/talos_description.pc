@@ -1,0 +1,8 @@
+prefix=/home/user/simulation_ws/install
+
+Name: talos_description
+Description: Description of talos_description
+Version: 1.0.45
+Cflags: 
+Libs: -L/home/user/simulation_ws/install/lib 
+Requires: 

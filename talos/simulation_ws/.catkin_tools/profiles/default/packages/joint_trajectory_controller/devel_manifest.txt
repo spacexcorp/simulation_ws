@@ -1,0 +1,5 @@
+ros_controllers/joint_trajectory_controller
+/home/user/simulation_ws/devel/.private/joint_trajectory_controller/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig-version.cmake /home/user/simulation_ws/devel/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig-version.cmake
+/home/user/simulation_ws/devel/.private/joint_trajectory_controller/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig.cmake /home/user/simulation_ws/devel/share/joint_trajectory_controller/cmake/joint_trajectory_controllerConfig.cmake
+/home/user/simulation_ws/devel/.private/joint_trajectory_controller/lib/libjoint_trajectory_controller.so /home/user/simulation_ws/devel/lib/libjoint_trajectory_controller.so
+/home/user/simulation_ws/devel/.private/joint_trajectory_controller/lib/pkgconfig/joint_trajectory_controller.pc /home/user/simulation_ws/devel/lib/pkgconfig/joint_trajectory_controller.pc

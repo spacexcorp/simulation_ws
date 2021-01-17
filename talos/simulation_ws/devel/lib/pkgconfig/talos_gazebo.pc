@@ -1,0 +1,8 @@
+prefix=/home/user/simulation_ws/devel/.private/talos_gazebo
+
+Name: talos_gazebo
+Description: Description of talos_gazebo
+Version: 0.1.8
+Cflags: 
+Libs: -L/home/user/simulation_ws/devel/.private/talos_gazebo/lib 
+Requires: 

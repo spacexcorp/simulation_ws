@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+    <!-- Start Launch with custom ROS_PACKAGE_PATH for pal custom ros env -->
+    <node name="start_talos_gazebo_v3" pkg="talos_gazebo" type="start_talos_gazebo_v3.sh" respawn="false" output="screen"/>
+
+</launch>

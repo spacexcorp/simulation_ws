@@ -1,0 +1,4 @@
+pal_gazebo_worlds
+/home/user/simulation_ws/devel/.private/pal_gazebo_worlds/share/pal_gazebo_worlds/cmake/pal_gazebo_worldsConfig.cmake /home/user/simulation_ws/devel/share/pal_gazebo_worlds/cmake/pal_gazebo_worldsConfig.cmake
+/home/user/simulation_ws/devel/.private/pal_gazebo_worlds/share/pal_gazebo_worlds/cmake/pal_gazebo_worldsConfig-version.cmake /home/user/simulation_ws/devel/share/pal_gazebo_worlds/cmake/pal_gazebo_worldsConfig-version.cmake
+/home/user/simulation_ws/devel/.private/pal_gazebo_worlds/lib/pkgconfig/pal_gazebo_worlds.pc /home/user/simulation_ws/devel/lib/pkgconfig/pal_gazebo_worlds.pc
