@@ -49,7 +49,7 @@
       <geometry>
         <mesh filename="package://turtlebot3_description/meshes/wheels/left_tire.dae" scale="0.001 0.001 0.001"/>
       </geometry>
-      <material name="dark"/>
+      <material name="red"/>
     </visual>
 
     <collision>
@@ -81,7 +81,7 @@
       <geometry>
         <mesh filename="package://turtlebot3_description/meshes/wheels/right_tire.dae" scale="0.001 0.001 0.001"/>
       </geometry>
-      <material name="dark"/>
+      <material name="red"/>
     </visual>
 
     <collision>
@@ -143,7 +143,7 @@
       <geometry>
         <mesh filename="package://turtlebot3_description/meshes/sensors/lds.dae" scale="0.001 0.001 0.001"/>
       </geometry>
-      <material name="dark"/>
+      <material name="red"/>
     </visual>
 
     <collision>
